@@ -9,21 +9,3 @@ listBtn.addEventListener("click", function () {
 document.querySelector(".darkbtn").addEventListener("click", function () {
   sectionBox.classList.toggle("darkmode");
 });
-/*
-let exchRATE = 740;
-const conVERTER = (convNaira) => convNaira * exchRATE;
-const amount = conVERTER(500);
-console.log(amount);
-
-let price = 500;
-const conVERTE = function (xchange) {
-  return xchange * price;
-};
-const value = conVERTE(740);
-console.log(value);
-
-const addEXPR = function (a, b) {
-  console.log(arguments);
-  return a + b;
-};
-addEXPR(5, 9);*/

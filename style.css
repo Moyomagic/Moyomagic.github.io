@@ -268,3 +268,59 @@ footer ul a {
 footer ul a:hover {
   color: #4263eb;
 }
+@media screen and (max-width: 600px) {
+  body {
+    width: 100%;
+    height: 100%;
+  }
+  .exp-card {
+    display: flex;
+    flex-direction: column;
+  }
+  #contact-wrap {
+    display: flex;
+    flex-direction: column;
+  }
+  .author-texts {
+    width: 100%;
+    padding: 5px;
+  }
+  section{
+    width:450px;
+    margin: 0 auto;
+  }
+  .section-box{
+    display: flex;
+    flex-direction: column;
+  }
+  .author-btns{
+    display: flex;
+    gap:10px;
+  }
+  .author-btns button {
+    padding:5px;
+  font-size: 14px;
+}
+.author-img{
+  margin-top: -45px;
+  width: 300px;
+}
+.box2{
+  margin: 0 auto;
+}
+.serv-card{
+  display: flex;
+  flex-direction: column;
+}
+.contact-card{
+  width:300px;
+  margin-left: -55px;
+}
+.contact-form{
+  width:200px;
+  margin-left: -55px;
+}
+footer{
+  font-size: 14px;
+}
+}
