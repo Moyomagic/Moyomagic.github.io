@@ -296,10 +296,13 @@ footer ul a:hover {
   .author-btns{
     display: flex;
     gap:10px;
+    width: fit-content;
+    
   }
   .author-btns button {
     padding:5px;
   font-size: 14px;
+  width: 115px;
 }
 .author-img{
   margin-top: -45px;
