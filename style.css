@@ -317,8 +317,11 @@ footer ul a:hover {
   margin-left: -55px;
 }
 .contact-form{
-  width:200px;
+  width:100px;
   margin-left: -55px;
+}
+.contact-line{
+  width:300px;
 }
 footer{
   font-size: 14px;
