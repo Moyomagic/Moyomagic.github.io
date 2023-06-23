@@ -297,6 +297,7 @@ footer ul a:hover {
     display: flex;
     gap:10px;
     width: fit-content;
+    margin-left: -35px;
     
   }
   .author-btns button {
