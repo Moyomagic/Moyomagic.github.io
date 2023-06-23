@@ -286,7 +286,7 @@ footer ul a:hover {
     padding: 5px;
   }
   section{
-    width:450px;
+    width:100%;
     margin: 0 auto;
   }
   .section-box{
@@ -319,6 +319,7 @@ footer ul a:hover {
 .contact-form{
   width:100px;
   margin-left: -54px;
+  
 }
 .contact-line{
   width:260px;
