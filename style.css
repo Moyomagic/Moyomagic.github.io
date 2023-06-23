@@ -326,4 +326,9 @@ footer ul a:hover {
 footer{
   font-size: 14px;
 }
+footer ul{
+  display: flex;
+  flex-direction: column;
+  gap:10px;
+}
 }
